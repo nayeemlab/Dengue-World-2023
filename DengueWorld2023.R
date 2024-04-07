@@ -24,8 +24,8 @@ library(tseries)
 setwd("E:\\ResearchProject\\Najmul Bhai\\Dengue\\Dengue World 2023")
 
 worldDeng <- read.csv("DengWorld.csv")
-worldDeng$Caselog <- log10(worldDeng$Case)
-worldDeng$Deathlog <- log10(worldDeng$Death)
+worldDeng$Caselog <- log10(worldDeng$Case_WP+1)
+worldDeng$Deathlog <- log10(worldDeng$Death+1)
 
 # COVID2022$location[COVID2022$location == 'United States'] <- 'USA'
 # COVID2022$location[COVID2022$location == 'United Kingdom'] <- 'UK'
@@ -71,7 +71,7 @@ plain <- theme(
 worldDeng <- ggplot(data = worldSubset, mapping = aes(x = long, y = lat, group = group)) + 
   coord_fixed(1.3) +
   geom_polygon(aes(fill = DC)) +
-  scale_fill_distiller(palette ="YlGn", direction = 1) + # or direction=1
+  scale_fill_distiller(palette ="Paired", direction = 1) + # or direction=1
   ggtitle("") + labs(fill = "Dengue Cases \n(log10)") +
   plain
 x <- plot(worldDeng)
@@ -81,8 +81,7 @@ x
 #Death
 
 worldDeng <- read.csv("DengWorld.csv")
-worldDeng$Caselog <- log10(worldDeng$Case)
-worldDeng$Deathlog <- log10(worldDeng$Death)
+worldDeng$Deathlog <- log10(worldDeng$Death+1)
 
 # COVID2022$location[COVID2022$location == 'United States'] <- 'USA'
 # COVID2022$location[COVID2022$location == 'United Kingdom'] <- 'UK'
@@ -128,7 +127,7 @@ plain <- theme(
 worldDeng <- ggplot(data = worldSubset, mapping = aes(x = long, y = lat, group = group)) + 
   coord_fixed(1.3) +
   geom_polygon(aes(fill = DD)) +
-  scale_fill_distiller(palette ="Reds", direction = 1) + # or direction=1
+  scale_fill_distiller(palette ="Paired", direction = 1) + # or direction=1
   ggtitle("") + labs(fill = "Dengue Deaths \n(log10)") +
   plain
 y <- plot(worldDeng)
@@ -136,6 +135,7 @@ y
 
 
 library(gridExtra)
-tiff("Dengue2023Map.tiff", units="in", width=20, height=12, res=300)
-gridExtra::grid.arrange(x,y, nrow=1, ncol=2)
+tiff("Dengue2023Map.tiff", units="in", width=6, height=6, res=300)
+gridExtra::grid.arrange(x,y, nrow=2, ncol=1)
 dev.off()
+
