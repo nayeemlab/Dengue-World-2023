@@ -24,8 +24,8 @@ library(tseries)
 setwd("E:\\ResearchProject\\Najmul Bhai\\Dengue\\Dengue World 2023")
 
 worldDeng <- read.csv("DengWorld.csv")
-worldDeng$Caselog <- log10(worldDeng$Case_WP+1)
-worldDeng$Deathlog <- log10(worldDeng$Death+1)
+worldDeng$Caselog <- log10(worldDeng$CasePM+1)
+worldDeng$Deathlog <- log10(worldDeng$DeathPM+1)
 
 # COVID2022$location[COVID2022$location == 'United States'] <- 'USA'
 # COVID2022$location[COVID2022$location == 'United Kingdom'] <- 'UK'
