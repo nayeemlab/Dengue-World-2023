@@ -1,254 +1,254 @@
-﻿iso_code,Country ,WHO Region,Continents,WorldPop,Case,Death,WPPM,CasePM,DeathPM,CasePMCW,DeathPMCW,CasePMRW,DeathPMRW
-,Niue,WHO Western Pacific Region,Oceania,1935,0,0,0.001935,0,0,52.34,0,14588.1,0.55
-,Falkland Islands,WHO Region of the Americas,South America,3791,0,0,0.003791,0,0,94510.33,0.29,346964.85,0.46
-,Montserrat,WHO Region of the Americas,North America,4386,6,0,0.004386,1367.989056,0,252454.52,0.17,346964.85,0.46
-,Saint Helena,,Africa,5314,0,0,0.005314,0,0,8350.86,4.39,,
-,Saint Pierre and Miquelon,WHO Region of the Americas,North America,5840,0,0,0.00584,0,0,252454.52,0.17,346964.85,0.46
-,Saint Barthelemy,WHO Region of the Americas,North America,10994,737,0,0.010994,67036.5654,0,252454.52,0.17,346964.85,0.46
-,Tuvalu,WHO Western Pacific Region,Oceania,11396,0,0,0.011396,0,0,52.34,0,14588.1,0.55
-,Wallis and Futuna,,Oceania,11502,0,0,0.011502,0,0,52.34,0,,
-,Nauru,WHO Western Pacific Region,Oceania,12780,0,0,0.01278,0,0,52.34,0,14588.1,0.55
-,Anguilla,WHO Region of the Americas,North America,15899,1,0,0.015899,62.89703755,0,252454.52,0.17,346964.85,0.46
-,Cook Islands,WHO Western Pacific Region,Oceania,17044,0,0,0.017044,0,0,52.34,0,14588.1,0.55
-,Palau,WHO Western Pacific Region,Oceania,18058,0,0,0.018058,0,0,52.34,0,14588.1,0.55
-,Saint Martin,WHO Region of the Americas,North America,32077,1272,0,0.032077,39654.58116,0,252454.52,0.17,346964.85,0.46
-,San Marino,WHO European Region,Europe,33642,0,0,0.033642,0,0,2.12,0,2.12,0
-,Monaco,WHO European Region,Europe,36297,0,0,0.036297,0,0,2.12,0,2.12,0
-,Liechtenstein,,Europe,39584,0,0,0.039584,0,0,2.12,0,,
-,Marshall Islands,WHO Western Pacific Region,Oceania,41996,0,0,0.041996,0,0,52.34,0,14588.1,0.55
-,American Samoa,,Oceania,43914,0,0,0.043914,0,0,52.34,0,,
-,Sint Maarten,WHO Region of the Americas,North America,44222,1,0,0.044222,22.61317896,0,252454.52,0.17,346964.85,0.46
-,Turks and Caicos Islands,WHO Region of the Americas,North America,46062,182,0,0.046062,3951.196214,0,252454.52,0.17,346964.85,0.46
-,Saint Kitts,WHO Region of the Americas,North America,47755,284,1,0.047755,5947.021254,0,252454.52,0.17,346964.85,0.46
-,Northern Mariana Islands,,Oceania,49796,0,0,0.049796,0,0,52.34,0,,
-,Faroe Islands,,Europe,53270,0,0,0.05327,0,0,2.12,0,,
-,Greenland,WHO Region of the Americas,North America,56643,0,0,0.056643,0,0,252454.52,0.17,346964.85,0.46
-,Bermuda,WHO Region of the Americas,North America,64069,1,0,0.064069,15.60817244,0,252454.52,0.17,346964.85,0.46
-,Cayman Islands,WHO Region of the Americas,North America,69310,42,0,0.06931,605.973164,0,252454.52,0.17,346964.85,0.46
-DOM,Dominica,WHO Region of the Americas,North America,73040,0,0,0.07304,0,0,252454.52,0.17,346964.85,0.46
-,Andorra,WHO European Region,Europe,80088,0,0,0.080088,0,0,2.12,0,2.12,0
-,Isle of Man,,Europe,84710,0,0,0.08471,0,0,2.12,0,,
-,Antigua,WHO Region of the Americas,North America,94298,254,0,0.094298,2693.588411,0,252454.52,0.17,346964.85,0.46
-,Virgin Islands,WHO Region of the Americas,North America,98750,7,0,0.09875,70.88607595,0,252454.52,0.17,346964.85,0.46
-,Saint Vincent,WHO Region of the Americas,North America,103698,15,0,0.103698,144.6508129,0,252454.52,0.17,346964.85,0.46
-,Aruba,WHO Region of the Americas,South America,106277,22,0,0.106277,207.0062196,0,94510.33,0.29,346964.85,0.46
-,Seychelles,WHO Region of Africa,Africa,107660,0,0,0.10766,0,0,8350.86,4.39,8092.82,4.06
-,Tonga,WHO Western Pacific Region,Oceania,107773,0,0,0.107773,0,0,52.34,0,14588.1,0.55
-,Grenada,WHO Region of the Americas,North America,126183,628,1,0.126183,4976.898631,0,252454.52,0.17,346964.85,0.46
-,Kiribati,WHO Western Pacific Region,Oceania,133515,0,0,0.133515,0,0,52.34,0,14588.1,0.55
-,Guam,,Oceania,172952,0,0,0.172952,0,0,52.34,0,,
-,Saint Lucia,WHO Region of the Americas,North America,180251,60,0,0.180251,332.8691658,0,252454.52,0.17,346964.85,0.46
-,Curacao,WHO Region of the Americas,South America,192077,0,0,0.192077,0,0,94510.33,0.29,346964.85,0.46
-,Samoa,WHO Western Pacific Region,Oceania,225681,0,0,0.225681,0,0,52.34,0,14588.1,0.55
-,Sao Tome and Principe,WHO Region of Africa,Africa,231856,69,0,0.231856,297.5985094,0,8350.86,4.39,8092.82,4.06
-,Barbados,WHO Region of the Americas,North America,281995,771,0,0.281995,2734.09103,0,252454.52,0.17,346964.85,0.46
-,New Caledonia,WHO Western Pacific Region,Oceania,292991,4,0,0.292991,13.65229649,0,52.34,0,14588.1,0.55
-,French Polynesia,,Oceania,308872,0,0,0.308872,0,0,52.34,0,,
-,French Guiana,WHO Region of the Americas,South America,312155,2684,0,0.312155,8598.292515,0,94510.33,0.29,346964.85,0.46
-,Vanuatu,WHO Western Pacific Region,Oceania,334506,0,0,0.334506,0,0,52.34,0,14588.1,0.55
-,Mayotte,,Africa,335995,0,0,0.335995,0,0,8350.86,4.39,,
-,Martinique,WHO Region of the Americas,North America,366981,13239,6,0.366981,36075.43715,0,252454.52,0.17,346964.85,0.46
-,Iceland,WHO European Region,Europe,375318,0,0,0.375318,0,0,2.12,0,2.12,0
-,Guadeloupe,WHO Region of the Americas,North America,395839,11751,7,0.395839,29686.31186,0,252454.52,0.17,346964.85,0.46
-,Belize,WHO Region of the Americas,North America,410825,1688,0,0.410825,4108.805452,0,252454.52,0.17,346964.85,0.46
-,Bahamas,WHO Region of the Americas,North America,412623,243,1,0.412623,588.9153053,0,252454.52,0.17,346964.85,0.46
-,Brunei,WHO Western Pacific Region,Asia,452524,0,0,0.452524,0,0,31629.86,5.25,14588.1,0.55
-,Maldives,WHO South-East Asia Region,Asia,521021,3223,0,0.521021,6185.931085,0,31629.86,5.25,16429.77,4.64
-,Malta,WHO European Region,Africa,535064,0,0,0.535064,0,0,8350.86,4.39,2.12,0
-,Micronesia,WHO Western Pacific Region,Oceania,544321,0,0,0.544321,0,0,52.34,0,14588.1,0.55
-,Western Sahara,,Africa,587259,0,0,0.587259,0,0,8350.86,4.39,,
-,Cape Verde,WHO Region of Africa,Africa,598682,410,0,0.598682,684.8376935,0,8350.86,4.39,8092.82,4.06
-,Suriname,WHO Region of the Americas,South America,623236,279,3,0.623236,447.6634854,0.01,94510.33,0.29,346964.85,0.46
-,Montenegro,WHO European Region,Europe,626485,0,0,0.626485,0,0,2.12,0,2.12,0
-,Luxembourg,WHO European Region,Europe,654768,0,0,0.654768,0,0,2.12,0,2.12,0
-,Solomon Islands,WHO Western Pacific Region,Oceania,740424,0,0,0.740424,0,0,52.34,0,14588.1,0.55
-BT,Bhutan,WHO South-East Asia Region,Asia,787424,0,0,0.787424,0,0,31629.86,5.25,16429.77,4.64
-,Guyana,WHO Region of the Americas,South America,813834,27709,0,0.813834,34047.48388,0,94510.33,0.29,346964.85,0.46
-,Comoros,WHO Region of Africa,Africa,852075,0,0,0.852075,0,0,8350.86,4.39,8092.82,4.06
-,Fiji,WHO Western Pacific Region,Oceania,936375,0,0,0.936375,0,0,52.34,0,14588.1,0.55
-,Reunion,,Africa,981796,0,0,0.981796,0,0,8350.86,4.39,,
-DJI,Djibouti,WHO Eastern Mediterranean Region,Africa,1136455,0,0,1.136455,0,0,8350.86,4.39,922.37,0.39
-,Eswatini,,Africa,1210822,0,0,1.210822,0,0,8350.86,4.39,,
-,Cyprus,WHO European Region,Europe,1260138,0,0,1.260138,0,0,2.12,0,2.12,0
-MUS,Mauritius,WHO Region of Africa,Africa,1300557,265,0,1.300557,203.758851,0,8350.86,4.39,8092.82,4.06
-EST,Estonia,WHO European Region,Europe,1322765,0,0,1.322765,0,0,2.12,0,2.12,0
-,Timor-Leste,WHO South-East Asia Region,Asia,1360596,0,0,1.360596,0,0,31629.86,5.25,16429.77,4.64
-BHR,Bahrain,WHO Eastern Mediterranean Region,Asia,1485509,0,0,1.485509,0,0,31629.86,5.25,922.37,0.39
-,Tobago,WHO Region of the Americas,South America,1534937,0,0,1.534937,0,0,94510.33,0.29,346964.85,0.46
-TTO,Trinidad,WHO Region of the Americas,North America,1534937,126,0,1.534937,82.08805964,0,252454.52,0.17,346964.85,0.46
-GNQ,Equatorial Guinea,WHO Region of Africa,Africa,1714671,0,0,1.714671,0,0,8350.86,4.39,8092.82,4.06
-LVA,Latvia,WHO European Region,Europe,1830211,0,0,1.830211,0,0,2.12,0,2.12,0
-,North Macedonia,WHO European Region,Europe,2085679,0,0,2.085679,0,0,2.12,0,2.12,0
-SVN,Slovenia,WHO European Region,Europe,2119675,0,0,2.119675,0,0,2.12,0,2.12,0
-,Guinea-Bissau,WHO Region of Africa,Africa,2150842,0,0,2.150842,0,0,8350.86,4.39,8092.82,4.06
-,Lesotho,WHO Region of Africa,Africa,2330318,0,0,2.330318,0,0,8350.86,4.39,8092.82,4.06
-GAB,Gabon,WHO Region of Africa,Africa,2436566,0,0,2.436566,0,0,8350.86,4.39,8092.82,4.06
-,Namibia,WHO Region of Africa,Africa,2604172,0,0,2.604172,0,0,8350.86,4.39,8092.82,4.06
-BWA,Botswana,WHO Region of Africa,Africa,2675352,0,0,2.675352,0,0,8350.86,4.39,8092.82,4.06
-QAT,Qatar,WHO Eastern Mediterranean Region,Asia,2716391,0,0,2.716391,0,0,31629.86,5.25,922.37,0.39
-LTU,Lithuania,WHO European Region,Europe,2718352,0,0,2.718352,0,0,2.12,0,2.12,0
-GMB,Gambia,WHO Region of Africa,Africa,2773168,0,0,2.773168,0,0,8350.86,4.39,8092.82,4.06
-ARM,Armenia,WHO European Region,Asia,2777970,0,0,2.77797,0,0,31629.86,5.25,2.12,0
-JAM,Jamaica,WHO Region of the Americas,North America,2825544,8180,6,2.825544,2895.017738,0,252454.52,0.17,346964.85,0.46
-ALB,Albania,WHO European Region,Europe,2832439,0,0,2.832439,0,0,2.12,0,2.12,0
-BIH,Bosnia and Herzegovina,WHO European Region,Europe,3210847,0,0,3.210847,0,0,2.12,0,2.12,0
-,Puerto Rico,WHO Region of the Americas,North America,3260314,1242,0,3.260314,380.9449029,0,252454.52,0.17,346964.85,0.46
-URY,Uruguay,WHO Region of the Americas,South America,3423108,48,0,3.423108,14.02234461,0,94510.33,0.29,346964.85,0.46
-MDA,Moldova,WHO European Region,Europe,3435931,0,0,3.435931,0,0,2.12,0,2.12,0
-,Mongolia,WHO Western Pacific Region,Asia,3447157,0,0,3.447157,0,0,31629.86,5.25,14588.1,0.55
-GEO,Georgia,WHO European Region,Asia,3728282,0,0,3.728282,0,0,31629.86,5.25,2.12,0
-,Eritrea,WHO Region of Africa,Africa,3748901,0,0,3.748901,0,0,8350.86,4.39,8092.82,4.06
-HRV,Croatia,WHO European Region,Europe,4008617,0,0,4.008617,0,0,2.12,0,2.12,0
-KWT,Kuwait,WHO Eastern Mediterranean Region,Asia,4310108,0,0,4.310108,0,0,31629.86,5.25,922.37,0.39
-PAN,Panama,WHO Region of the Americas,North America,4468087,20924,18,4.468087,4682.988491,0,252454.52,0.17,346964.85,0.46
-OMN,Oman,WHO Eastern Mediterranean Region,Asia,4644384,2016,0,4.644384,434.0726348,0,31629.86,5.25,922.37,0.39
-MRT,Mauritania,WHO Region of Africa,Africa,4862989,0,0,4.862989,0,0,8350.86,4.39,8092.82,4.06
-IRL,Ireland,WHO European Region,Europe,5056935,0,0,5.056935,0,0,2.12,0,2.12,0
-CRI,Costa Rica,WHO Region of the Americas,North America,5212173,30649,0,5.212173,5880.272969,0,252454.52,0.17,346964.85,0.46
-NZL,New Zealand,WHO Western Pacific Region,Oceania,5228100,0,0,5.2281,0,0,52.34,0,14588.1,0.55
-LBN,Lebanon,WHO Eastern Mediterranean Region,Asia,5353930,0,0,5.35393,0,0,31629.86,5.25,922.37,0.39
-PSE,Palestine,WHO Eastern Mediterranean Region,Asia,5371230,0,0,5.37123,0,0,31629.86,5.25,922.37,0.39
-LBR,Liberia,WHO Region of Africa,Africa,5418377,0,0,5.418377,0,0,8350.86,4.39,8092.82,4.06
-NOR,Norway,WHO European Region,Europe,5474360,0,0,5.47436,0,0,2.12,0,2.12,0
-FIN,Finland,WHO European Region,Europe,5545475,0,0,5.545475,0,0,2.12,0,2.12,0
-,Central African Republic,WHO Region of Africa,Africa,5742315,0,0,5.742315,0,0,8350.86,4.39,8092.82,4.06
-SVK,Slovakia,WHO European Region,Europe,5795199,0,0,5.795199,0,0,2.12,0,2.12,0
-DNK,Denmark,WHO European Region,Europe,5910913,0,0,5.910913,0,0,2.12,0,2.12,0
-SGP,Singapore,WHO Western Pacific Region,Asia,6014723,9663,0,6.014723,1606.557775,0,31629.86,5.25,14588.1,0.55
-COG,Republic of Congo,WHO Region of Africa,Africa,6106869,0,0,6.106869,0,0,8350.86,4.39,8092.82,4.06
-SLV,El Salvador,WHO Region of the Americas,North America,6364943,5788,0,6.364943,909.3561403,0,252454.52,0.17,346964.85,0.46
-,Turkmenistan,WHO European Region,Asia,6516100,0,0,6.5161,0,0,31629.86,5.25,2.12,0
-BGR,Bulgaria,WHO European Region,Europe,6687717,0,0,6.687717,0,0,2.12,0,2.12,0
-KGZ,Kyrgyzstan,WHO European Region,Asia,6735347,0,0,6.735347,0,0,31629.86,5.25,2.12,0
-PRY,Paraguay,WHO Region of the Americas,South America,6861524,63216,24,6.861524,9213.113588,0,94510.33,0.29,346964.85,0.46
-LBY,Libya,WHO Eastern Mediterranean Region,Africa,6888388,0,0,6.888388,0,0,8350.86,4.39,922.37,0.39
-NIC,Nicaragua,WHO Region of the Americas,North America,7046310,181096,4,7.04631,25700.82781,0,252454.52,0.17,346964.85,0.46
-SRB,Serbia,WHO European Region,Europe,7149077,0,0,7.149077,0,0,2.12,0,2.12,0
-,Laos,WHO Western Pacific Region,Asia,7633779,31997,20,7.633779,4191.502007,0,31629.86,5.25,14588.1,0.55
-SLE,Sierra Leone,WHO Region of Africa,Africa,8791092,0,0,8.791092,0,0,8350.86,4.39,8092.82,4.06
-CHE,Switzerland,WHO European Region,Europe,8796669,0,0,8.796669,0,0,2.12,0,2.12,0
-AUT,Austria,WHO European Region,Europe,8958960,0,0,8.95896,0,0,2.12,0,2.12,0
-TGO,Togo,WHO Region of Africa,Africa,9053799,8,1,9.053799,0.883606981,1.13,8350.86,4.39,8092.82,4.06
-ISR,Israel,WHO European Region,Asia,9174520,0,0,9.17452,0,0,31629.86,5.25,2.12,0
-BLR,Belarus,WHO European Region,Europe,9498238,0,0,9.498238,0,0,2.12,0,2.12,0
-ARE,United Arab Emirates,WHO Eastern Mediterranean Region,Asia,9516871,0,0,9.516871,0,0,31629.86,5.25,922.37,0.39
-,Tajikistan,WHO European Region,Asia,10143543,0,0,10.143543,0,0,31629.86,5.25,2.12,0
-HUN,Hungary,WHO European Region,Europe,10156239,0,0,10.156239,0,0,2.12,0,2.12,0
-PRT,Portugal,WHO European Region,Europe,10247605,0,0,10.247605,0,0,2.12,0,2.12,0
-,Papua New Guinea,WHO Western Pacific Region,Oceania,10329931,0,0,10.329931,0,0,52.34,0,14588.1,0.55
-GRC,Greece,WHO European Region,Europe,10341277,0,0,10.341277,0,0,2.12,0,2.12,0
-AZE,Azerbaijan,WHO European Region,Asia,10412651,0,0,10.412651,0,0,31629.86,5.25,2.12,0
-,Czech Republic,WHO European Region,Europe,10495295,0,0,10.495295,0,0,2.12,0,2.12,0
-HND,Honduras,WHO Region of the Americas,North America,10593798,34050,49,10.593798,3214.144729,0.02,252454.52,0.17,346964.85,0.46
-SWE,Sweden,WHO European Region,Europe,10612086,0,0,10.612086,0,0,2.12,0,2.12,0
-SS,South Sudan,WHO Region of Africa,Africa,11088796,0,0,11.088796,0,0,8350.86,4.39,8092.82,4.06
-CUB,Cuba,WHO Region of the Americas,North America,11194449,0,0,11.194449,0,0,252454.52,0.17,346964.85,0.46
-,Dominican Republic,WHO Region of the Americas,North America,11332972,27972,62,11.332972,2468.196339,0.03,252454.52,0.17,346964.85,0.46
-JOR,Jordan,WHO Eastern Mediterranean Region,Asia,11337052,0,0,11.337052,0,0,31629.86,5.25,922.37,0.39
-BEL,Belgium,WHO European Region,Europe,11686140,0,0,11.68614,0,0,2.12,0,2.12,0
-HTI,Haiti,WHO Region of the Americas,North America,11724763,0,0,11.724763,0,0,252454.52,0.17,346964.85,0.46
-BOL,Bolivia,WHO Region of the Americas,South America,12388571,156774,88,12.388571,12654.7283,0.01,94510.33,0.29,346964.85,0.46
-TUN,Tunisia,WHO Eastern Mediterranean Region,Africa,12458223,0,0,12.458223,0,0,8350.86,4.39,922.37,0.39
-BDI,Burundi,WHO Region of Africa,Africa,13238559,0,0,13.238559,0,0,8350.86,4.39,8092.82,4.06
-BEN,Benin,WHO Region of Africa,Africa,13712828,6,1,13.712828,0.437546508,2.29,8350.86,4.39,8092.82,4.06
-,Rwanda,WHO Region of Africa,Africa,14094683,0,0,14.094683,0,0,8350.86,4.39,8092.82,4.06
-GIN,Guinea,WHO Region of Africa,Africa,14190612,1,0,14.190612,0.070469124,0,8350.86,4.39,8092.82,4.06
-ZWE,Zimbabwe,WHO Region of Africa,Africa,16665409,0,0,16.665409,0,0,8350.86,4.39,8092.82,4.06
-,Cambodia,WHO Western Pacific Region,Asia,16944826,31567,39,16.944826,1862.928542,0.02,31629.86,5.25,14588.1,0.55
-NLD,Netherlands,WHO European Region,Europe,17618299,0,0,17.618299,0,0,2.12,0,2.12,0
-SEN,Senegal,WHO Region of Africa,Africa,17763163,248,1,17.763163,13.96147747,0.07,8350.86,4.39,8092.82,4.06
-GTM,Guatemala,WHO Region of the Americas,North America,18092026,72358,119,18.092026,3999.441522,0.03,252454.52,0.17,346964.85,0.46
-SOM,Somalia,WHO Eastern Mediterranean Region,Africa,18143378,755,1,18.143378,41.61297858,0.02,8350.86,4.39,922.37,0.39
-ECU,Ecuador ,WHO Region of the Americas,South America,18190484,27838,33,18.190484,1530.3606,0.02,94510.33,0.29,346964.85,0.46
-,Chad,WHO Region of Africa,Africa,18278568,1342,1,18.278568,73.41931819,0.01,8350.86,4.39,8092.82,4.06
-KAZ,Kazakhstan,WHO European Region,Asia,19606633,0,0,19.606633,0,0,31629.86,5.25,2.12,0
-CHL,Chile,WHO Region of the Americas,South America,19629590,0,0,19.62959,0,0,94510.33,0.29,346964.85,0.46
-ROU,Romania,WHO European Region,Europe,19892812,0,0,19.892812,0,0,2.12,0,2.12,0
-ZMB,Zambia,WHO Region of Africa,Africa,20569737,0,0,20.569737,0,0,8350.86,4.39,8092.82,4.06
-MWI,Malawi,WHO Region of Africa,Africa,20931751,0,0,20.931751,0,0,8350.86,4.39,8092.82,4.06
-LKA,Sri Lanka,WHO South-East Asia Region,Asia,21893579,89799,61,21.893579,4101.613537,0.01,31629.86,5.25,16429.77,4.64
-SYR,Syria,WHO Eastern Mediterranean Region,Asia,23227014,0,0,23.227014,0,0,31629.86,5.25,922.37,0.39
-BFA,Burkina Faso,WHO Region of Africa,Africa,23251485,"146,878",688,23.251485,6316.929865,0.11,8350.86,4.39,8092.82,4.06
-MLI,Mali,WHO Region of Africa,Africa,23293698,4427,29,23.293698,190.0514036,0.15,8350.86,4.39,8092.82,4.06
-TWN,Taiwan,WHO Western Pacific Region,Asia,23923276,0,0,23.923276,0,0,31629.86,5.25,14588.1,0.55
-,North Korea,WHO South-East Asia Region,Asia,26160821,0,0,26.160821,0,0,31629.86,5.25,16429.77,4.64
-AUS,Australia,WHO Western Pacific Region,Oceania,26439111,1023,0,26.439111,38.69267768,0,52.34,0,14588.1,0.55
-NER,Niger,WHO Region of Africa,Africa,27202843,148,0,27.202843,5.440607807,0,8350.86,4.39,8092.82,4.06
-CMR,Cameroon,WHO Region of Africa,Africa,28647293,0,0,28.647293,0,0,8350.86,4.39,8092.82,4.06
-VEN,Venezuela,WHO Region of the Americas,South America,28838499,4809,8,28.838499,166.7562518,0.05,94510.33,0.29,346964.85,0.46
-CIV,Ivory Coast,WHO Region of Africa,Africa,28873034,3895,27,28.873034,134.9009598,0.2,8350.86,4.39,8092.82,4.06
-,Madagascar,WHO Region of Africa,Africa,30325732,0,0,30.325732,0,0,8350.86,4.39,8092.82,4.06
-,Nepal,WHO South-East Asia Region,Asia,30896590,51243,20,30.89659,1658.532544,0.01,31629.86,5.25,16429.77,4.64
-,Mozambique,WHO Region of Africa,Africa,33897354,0,0,33.897354,0,0,8350.86,4.39,8092.82,4.06
-GHA,Ghana,WHO Region of Africa,Africa,34121985,18,0,34.121985,0.527519135,0,8350.86,4.39,8092.82,4.06
-MYS,Malaysia,WHO Western Pacific Region,Asia,34308525,120418,96,34.308525,3509.856515,0.03,31629.86,5.25,14588.1,0.55
-PER,Peru,WHO Region of the Americas,South America,34352719,274227,441,34.352719,7982.686902,0.06,94510.33,0.29,346964.85,0.46
-,Yemen,WHO Eastern Mediterranean Region,Asia,34449825,951,1,34.449825,27.60536519,0.04,31629.86,5.25,922.37,0.39
-UZB,Uzbekistan,WHO European Region,Asia,35163944,0,0,35.163944,0,0,31629.86,5.25,2.12,0
-AGO,Angola,WHO Region of Africa,Africa,36684202,0,0,36.684202,0,0,8350.86,4.39,8092.82,4.06
-UKR,Ukraine,WHO European Region,Europe,36744634,0,0,36.744634,0,0,2.12,0,2.12,0
-SAU,Saudi Arabia,WHO Eastern Mediterranean Region,Asia,36947025,2259,0,36.947025,61.14159394,0,31629.86,5.25,922.37,0.39
-MAR,Morocco,WHO Eastern Mediterranean Region,Africa,37840044,0,0,37.840044,0,0,8350.86,4.39,922.37,0.39
-CAN,Canada,WHO Region of the Americas,North America,38781291,0,0,38.781291,0,0,252454.52,0.17,346964.85,0.46
-POL,Poland,WHO European Region,Europe,41026067,0,0,41.026067,0,0,2.12,0,2.12,0
-AFG,Afghanistan,WHO Eastern Mediterranean Region,Asia,42239854,1700,1,42.239854,40.24635123,0.02,31629.86,5.25,922.37,0.39
-IRQ,Iraq,WHO Eastern Mediterranean Region,Asia,45504560,0,0,45.50456,0,0,31629.86,5.25,922.37,0.39
-DZA,Algeria,WHO Region of Africa,Africa,45606480,0,0,45.60648,0,0,8350.86,4.39,8092.82,4.06
-ARG,Argentina,WHO Region of the Americas,South America,45773884,130287,75,45.773884,2846.317345,0.03,94510.33,0.29,346964.85,0.46
-ESP,Spain,WHO European Region,Europe,47519628,3,0,47.519628,0.063131807,0,2.12,0,2.12,0
-SDN,Sudan,WHO Eastern Mediterranean Region,Africa,48109006,10412,66,48.109006,216.4251741,0.3,8350.86,4.39,922.37,0.39
-,Uganda,WHO Region of Africa,Africa,48582334,0,0,48.582334,0,0,8350.86,4.39,8092.82,4.06
-KOR,South Korea,WHO Western Pacific Region,Asia,51784059,0,0,51.784059,0,0,31629.86,5.25,14588.1,0.55
-COL,Colombia,WHO Region of the Americas,South America,52085168,131784,90,52.085168,2530.163673,0.04,94510.33,0.29,346964.85,0.46
-MMR,Myanmar,WHO South-East Asia Region,Asia,54577997,4968,23,54.577997,91.02569301,0.25,31629.86,5.25,16429.77,4.64
-KEN,Kenya,WHO Region of Africa,Africa,55100586,0,0,55.100586,0,0,8350.86,4.39,8092.82,4.06
-ITA,Italy,WHO European Region,Europe,58870762,82,0,58.870762,1.39288158,0,2.12,0,2.12,0
-ZAF,South Africa,WHO Region of Africa,Africa,60414495,0,0,60.414495,0,0,8350.86,4.39,8092.82,4.06
-FRA,France,WHO European Region,Europe,64756584,43,0,64.756584,0.664025144,0,2.12,0,2.12,0
-TZA,Tanzania,WHO Region of Africa,Africa,67438106,0,0,67.438106,0,0,8350.86,4.39,8092.82,4.06
-GBR,UK,WHO European Region,Europe,67736802,0,0,67.736802,0,0,2.12,0,2.12,0
-THA,Thailand,WHO South-East Asia Region,Asia,71801279,159219,179,71.801279,2217.495318,0.08,31629.86,5.25,16429.77,4.64
-DEU,Germany,WHO European Region,Europe,83294633,0,0,83.294633,0,0,2.12,0,2.12,0
-TUR,Turkey,WHO European Region,Asia,85816199,0,0,85.816199,0,0,31629.86,5.25,2.12,0
-IRN,Iran,WHO Eastern Mediterranean Region,Asia,89172767,0,0,89.172767,0,0,31629.86,5.25,922.37,0.39
-,Vietnam,WHO Western Pacific Region,Asia,98858950,166619,42,98.85895,1685.421502,0.02,31629.86,5.25,14588.1,0.55
-COD,Democratic Republic of the Congo,WHO Region of Africa,Africa,102262808,0,0,102.262808,0,0,8350.86,4.39,8092.82,4.06
-EGY,Egypt,WHO Eastern Mediterranean Region,Africa,112716598,0,0,112.716598,0,0,8350.86,4.39,922.37,0.39
-PHL,Philippines,WHO Western Pacific Region,Asia,117337368,195603,657,117.337368,1667.0137,0.39,31629.86,5.25,14588.1,0.55
-JPN,Japan,WHO Western Pacific Region,Asia,123294513,0,0,123.294513,0,0,31629.86,5.25,14588.1,0.55
-ETH,Ethiopia,WHO Region of Africa,Africa,126527060,21469,17,126.52706,169.6791184,0.1,8350.86,4.39,8092.82,4.06
-MEX,Mexico,WHO Region of the Americas,North America,128455567,277963,203,128.455567,2163.884419,0.09,252454.52,0.17,346964.85,0.46
-RUS,Russia,WHO European Region,Europe,144444359,0,0,144.444359,0,0,2.12,0,2.12,0
-BGD,Bangladesh,WHO South-East Asia Region,Asia,172954319,321179,1705,172.954319,1857.01636,0.92,31629.86,5.25,16429.77,4.64
-BRA,Brazil,WHO Region of the Americas,South America,216422446,3088723,1184,216.422446,14271.73132,0.08,94510.33,0.29,346964.85,0.46
-NGA,Nigeria,WHO Region of Africa,Africa,223804632,72,0,223.804632,0.321709159,0,8350.86,4.39,8092.82,4.06
-PAK,Pakistan,WHO Eastern Mediterranean Region,Asia,240485658,24352,0,240.485658,101.2617559,0,31629.86,5.25,922.37,0.39
-IDN,Indonesia,WHO South-East Asia Region,Asia,277534122,70000,500,277.534122,252.2212386,1.98,31629.86,5.25,16429.77,4.64
-USA,USA,WHO Region of the Americas,North America,339996563,156,0,339.996563,0.458828168,0,252454.52,0.17,346964.85,0.46
-CHN,China,WHO Western Pacific Region,Asia,1425671352,17788,1,1425.671352,12.47692883,0.08,31629.86,5.25,14588.1,0.55
-IND,India,WHO South-East Asia Region,Asia,1428627663,94198,91,1428.627663,65.93600449,1.38,31629.86,5.25,16429.77,4.64
-,Antarctica,,Antarctica,,0,0,0,0,0,0,0,,
-,Antilles,WHO Region of the Americas,North America,,0,0,0,0,0,252454.52,0.17,346964.85,0.46
-,Ascension Island,WHO Region of the Americas,South America,,0,0,0,0,0,94510.33,0.29,346964.85,0.46
-,Azores,WHO Region of the Americas,North America,,0,0,0,0,0,252454.52,0.17,346964.85,0.46
-,Barbuda,WHO Region of the Americas,North America,,0,0,0,0,0,252454.52,0.17,346964.85,0.46
-,Canary Islands,,Africa,,0,0,0,0,0,8350.86,4.39,,
-,Chagos Archipelago,,Africa,,0,0,0,0,0,8350.86,4.39,,
-,Christmas Island,,Asia,,0,0,0,0,0,31629.86,5.25,,
-,Cocos Islands,,Asia,,0,0,0,0,0,31629.86,5.25,,
-,French Southern and Antarctic Lands,,Africa,,0,0,0,0,0,8350.86,4.39,,
-,Grenadines,WHO Region of the Americas,North America,,0,0,0,0,0,252454.52,0.17,346964.85,0.46
-,Guernsey,WHO Region of the Americas,North America,,0,0,0,0,0,252454.52,0.17,346964.85,0.46
-,Heard Island,,Oceania,,0,0,0,0,0,52.34,0,,
-,Jersey,WHO Region of the Americas,North America,,0,0,0,0,0,252454.52,0.17,346964.85,0.46
-,Kosovo,,Europe,,0,0,0,0,0,2.12,0,,
-,Madeira Islands,,Africa,,0,0,0,0,0,8350.86,4.39,,
-,Nevis,WHO Region of the Americas,North America,,0,0,0,0,0,252454.52,0.17,346964.85,0.46
-,Norfolk Island,,Oceania,,0,0,0,0,0,52.34,0,,
-,Pitcairn Islands,,Oceania,,0,0,0,0,0,52.34,0,,
-,Saba,WHO Region of the Americas,North America,,0,0,0,0,0,252454.52,0.17,346964.85,0.46
-,Siachen Glacier,,Asia,,0,0,0,0,0,31629.86,5.25,,
-,Sint Eustatius,WHO Region of the Americas,North America,,0,0,0,0,0,252454.52,0.17,346964.85,0.46
-,South Georgia,,Antarctica,,0,0,0,0,0,0,0,,
-,South Sandwich Islands,,Antarctica,,0,0,0,0,0,0,0,,
-,Swaziland,,Africa,,0,0,0,0,0,8350.86,4.39,,
+﻿iso_code,Country ,WHO Region,Continents,WorldPop,Case,Death,WPP100T,CaseP100T,DeathP100T,CasePHTCW,DeathPHTCW,
+AFG,Afghanistan,WHO Eastern Mediterranean Region,Asia,42239854.00,1700.00,1.00,422.40,4.02,0.00,3162.985645,3.186845559,
+ALB,Albania,WHO European Region,Europe,2832439.00,0.00,0.00,28.32,0.00,0.00,0.212003853,0.00,
+DZA,Algeria,WHO Region of Africa,Africa,45606480.00,0.00,0.00,456.06,0.00,0.00,835.0856808,3.362534856,
+,American Samoa,,Oceania,43914.00,0.00,0.00,0.44,0.00,0.00,5.234497416,0.00,
+,Andorra,WHO European Region,Europe,80088.00,0.00,0.00,0.80,0.00,0.00,0.212003853,0.00,
+AGO,Angola,WHO Region of Africa,Africa,36684202.00,0.00,0.00,366.84,0.00,0.00,835.0856808,3.362534856,
+,Anguilla,WHO Region of the Americas,North America,15899.00,1.00,0.00,0.16,6.29,0.00,25245.45205,9.029594532,
+,Antarctica,,Antarctica,,0.00,0.00,0.00,0.00,0.00,0.00,0.00,
+,Antigua,WHO Region of the Americas,North America,94298.00,254.00,0.00,0.94,269.36,0.00,25245.45205,9.029594532,
+,Antilles,WHO Region of the Americas,North America,,0.00,0.00,0.00,0.00,0.00,25245.45205,9.029594532,
+ARG,Argentina,WHO Region of the Americas,South America,45773884.00,130287.00,75.00,457.74,284.63,0.16,9451.032642,3.918083636,
+ARM,Armenia,WHO European Region,Asia,2777970.00,0.00,0.00,27.78,0.00,0.00,3162.985645,3.186845559,
+,Aruba,WHO Region of the Americas,South America,106277.00,22.00,0.00,1.06,20.70,0.00,9451.032642,3.918083636,
+,Ascension Island,WHO Region of the Americas,South America,,0.00,0.00,0.00,0.00,0.00,9451.032642,3.918083636,
+AUS,Australia,WHO Western Pacific Region,Oceania,26439111.00,1023.00,0.00,264.39,3.87,0.00,5.234497416,0.00,
+AUT,Austria,WHO European Region,Europe,8958960.00,0.00,0.00,89.59,0.00,0.00,0.212003853,0.00,
+AZE,Azerbaijan,WHO European Region,Asia,10412651.00,0.00,0.00,104.13,0.00,0.00,3162.985645,3.186845559,
+,Azores,WHO Region of the Americas,North America,,0.00,0.00,0.00,0.00,0.00,25245.45205,9.029594532,
+,Bahamas,WHO Region of the Americas,North America,412623.00,243.00,1.00,4.13,58.89,0.24,25245.45205,9.029594532,
+BHR,Bahrain,WHO Eastern Mediterranean Region,Asia,1485509.00,0.00,0.00,14.86,0.00,0.00,3162.985645,3.186845559,
+BGD,Bangladesh,WHO South-East Asia Region,Asia,172954319.00,321179.00,1705.00,1729.54,185.70,0.99,3162.985645,3.186845559,
+,Barbados,WHO Region of the Americas,North America,281995.00,771.00,0.00,2.82,273.41,0.00,25245.45205,9.029594532,
+,Barbuda,WHO Region of the Americas,North America,,0.00,0.00,0.00,0.00,0.00,25245.45205,9.029594532,
+BLR,Belarus,WHO European Region,Europe,9498238.00,0.00,0.00,94.98,0.00,0.00,0.212003853,0.00,
+BEL,Belgium,WHO European Region,Europe,11686140.00,0.00,0.00,116.86,0.00,0.00,0.212003853,0.00,
+,Belize,WHO Region of the Americas,North America,410825.00,1688.00,0.00,4.11,410.88,0.00,25245.45205,9.029594532,
+BEN,Benin,WHO Region of Africa,Africa,13712828.00,6.00,1.00,137.13,0.04,0.01,835.0856808,3.362534856,
+,Bermuda,WHO Region of the Americas,North America,64069.00,1.00,0.00,0.64,1.56,0.00,25245.45205,9.029594532,
+BT,Bhutan,WHO South-East Asia Region,Asia,787424.00,0.00,0.00,7.87,0.00,0.00,3162.985645,3.186845559,
+BOL,Bolivia,WHO Region of the Americas,South America,12388571.00,156774.00,88.00,123.89,1265.47,0.71,9451.032642,3.918083636,
+BIH,Bosnia and Herzegovina,WHO European Region,Europe,3210847.00,0.00,0.00,32.11,0.00,0.00,0.212003853,0.00,
+BWA,Botswana,WHO Region of Africa,Africa,2675352.00,0.00,0.00,26.75,0.00,0.00,835.0856808,3.362534856,
+BRA,Brazil,WHO Region of the Americas,South America,216422446.00,3088723.00,1184.00,2164.22,1427.17,0.55,9451.032642,3.918083636,
+,Brunei,WHO Western Pacific Region,Asia,452524.00,0.00,0.00,4.53,0.00,0.00,3162.985645,3.186845559,
+BGR,Bulgaria,WHO European Region,Europe,6687717.00,0.00,0.00,66.88,0.00,0.00,0.212003853,0.00,
+BFA,Burkina Faso,WHO Region of Africa,Africa,23251485.00,146878.00,688.00,232.51,631.69,2.96,835.0856808,3.362534856,
+BDI,Burundi,WHO Region of Africa,Africa,13238559.00,0.00,0.00,132.39,0.00,0.00,835.0856808,3.362534856,
+,Cambodia,WHO Western Pacific Region,Asia,16944826.00,31567.00,39.00,169.45,186.29,0.23,3162.985645,3.186845559,
+CMR,Cameroon,WHO Region of Africa,Africa,28647293.00,0.00,0.00,286.47,0.00,0.00,835.0856808,3.362534856,
+CAN,Canada,WHO Region of the Americas,North America,38781291.00,0.00,0.00,387.81,0.00,0.00,25245.45205,9.029594532,
+,Canary Islands,,Africa,,0.00,0.00,0.00,0.00,0.00,835.0856808,3.362534856,
+,Cape Verde,WHO Region of Africa,Africa,598682.00,410.00,0.00,5.99,68.48,0.00,835.0856808,3.362534856,
+,Cayman Islands,WHO Region of the Americas,North America,69310.00,42.00,0.00,0.69,60.60,0.00,25245.45205,9.029594532,
+,Central African Republic,WHO Region of Africa,Africa,5742315.00,0.00,0.00,57.42,0.00,0.00,835.0856808,3.362534856,
+,Chad,WHO Region of Africa,Africa,18278568.00,1342.00,1.00,182.79,7.34,0.01,835.0856808,3.362534856,
+,Chagos Archipelago,,Africa,,0.00,0.00,0.00,0.00,0.00,835.0856808,3.362534856,
+CHL,Chile,WHO Region of the Americas,South America,19629590.00,0.00,0.00,196.30,0.00,0.00,9451.032642,3.918083636,
+CHN,China,WHO Western Pacific Region,Asia,1425671352.00,17788.00,1.00,14256.71,1.25,0.00,3162.985645,3.186845559,
+,Christmas Island,,Asia,,0.00,0.00,0.00,0.00,0.00,3162.985645,3.186845559,
+,Cocos Islands,,Asia,,0.00,0.00,0.00,0.00,0.00,3162.985645,3.186845559,
+COL,Colombia,WHO Region of the Americas,South America,52085168.00,131784.00,90.00,520.85,253.02,0.17,9451.032642,3.918083636,
+,Comoros,WHO Region of Africa,Africa,852075.00,0.00,0.00,8.52,0.00,0.00,835.0856808,3.362534856,
+,Cook Islands,WHO Western Pacific Region,Oceania,17044.00,0.00,0.00,0.17,0.00,0.00,5.234497416,0.00,
+CRI,Costa Rica,WHO Region of the Americas,North America,5212173.00,30649.00,0.00,52.12,588.03,0.00,25245.45205,9.029594532,
+HRV,Croatia,WHO European Region,Europe,4008617.00,0.00,0.00,40.09,0.00,0.00,0.212003853,0.00,
+CUB,Cuba,WHO Region of the Americas,North America,11194449.00,0.00,0.00,111.94,0.00,0.00,25245.45205,9.029594532,
+,Curacao,WHO Region of the Americas,South America,192077.00,0.00,0.00,1.92,0.00,0.00,9451.032642,3.918083636,
+,Cyprus,WHO European Region,Europe,1260138.00,0.00,0.00,12.60,0.00,0.00,0.212003853,0.00,
+,Czech Republic,WHO European Region,Europe,10495295.00,0.00,0.00,104.95,0.00,0.00,0.212003853,0.00,
+COD,Democratic Republic of the Congo,WHO Region of Africa,Africa,102262808.00,0.00,0.00,1022.63,0.00,0.00,835.0856808,3.362534856,
+DNK,Denmark,WHO European Region,Europe,5910913.00,0.00,0.00,59.11,0.00,0.00,0.212003853,0.00,
+DJI,Djibouti,WHO Eastern Mediterranean Region,Africa,1136455.00,0.00,0.00,11.36,0.00,0.00,835.0856808,3.362534856,
+DOM,Dominica,WHO Region of the Americas,North America,73040.00,0.00,0.00,0.73,0.00,0.00,25245.45205,9.029594532,
+,Dominican Republic,WHO Region of the Americas,North America,11332972.00,27972.00,62.00,113.33,246.82,0.55,25245.45205,9.029594532,
+ECU,Ecuador ,WHO Region of the Americas,South America,18190484.00,27838.00,33.00,181.90,153.04,0.18,9451.032642,3.918083636,
+EGY,Egypt,WHO Eastern Mediterranean Region,Africa,112716598.00,0.00,0.00,1127.17,0.00,0.00,835.0856808,3.362534856,
+SLV,El Salvador,WHO Region of the Americas,North America,6364943.00,5788.00,0.00,63.65,90.94,0.00,25245.45205,9.029594532,
+GNQ,Equatorial Guinea,WHO Region of Africa,Africa,1714671.00,0.00,0.00,17.15,0.00,0.00,835.0856808,3.362534856,
+,Eritrea,WHO Region of Africa,Africa,3748901.00,0.00,0.00,37.49,0.00,0.00,835.0856808,3.362534856,
+EST,Estonia,WHO European Region,Europe,1322765.00,0.00,0.00,13.23,0.00,0.00,0.212003853,0.00,
+,Eswatini,,Africa,1210822.00,0.00,0.00,12.11,0.00,0.00,835.0856808,3.362534856,
+ETH,Ethiopia,WHO Region of Africa,Africa,126527060.00,21469.00,17.00,1265.27,16.97,0.01,835.0856808,3.362534856,
+,Falkland Islands,WHO Region of the Americas,South America,3791.00,0.00,0.00,0.04,0.00,0.00,9451.032642,3.918083636,
+,Faroe Islands,,Europe,53270.00,0.00,0.00,0.53,0.00,0.00,0.212003853,0.00,
+,Fiji,WHO Western Pacific Region,Oceania,936375.00,0.00,0.00,9.36,0.00,0.00,5.234497416,0.00,
+FIN,Finland,WHO European Region,Europe,5545475.00,0.00,0.00,55.45,0.00,0.00,0.212003853,0.00,
+FRA,France,WHO European Region,Europe,64756584.00,43.00,0.00,647.57,0.07,0.00,0.212003853,0.00,
+,French Guiana,WHO Region of the Americas,South America,312155.00,2684.00,0.00,3.12,859.83,0.00,9451.032642,3.918083636,
+,French Polynesia,,Oceania,308872.00,0.00,0.00,3.09,0.00,0.00,5.234497416,0.00,
+,French Southern and Antarctic Lands,,Africa,,0.00,0.00,0.00,0.00,0.00,835.0856808,3.362534856,
+GAB,Gabon,WHO Region of Africa,Africa,2436566.00,0.00,0.00,24.37,0.00,0.00,835.0856808,3.362534856,
+GMB,Gambia,WHO Region of Africa,Africa,2773168.00,0.00,0.00,27.73,0.00,0.00,835.0856808,3.362534856,
+GEO,Georgia,WHO European Region,Asia,3728282.00,0.00,0.00,37.28,0.00,0.00,3162.985645,3.186845559,
+DEU,Germany,WHO European Region,Europe,83294633.00,0.00,0.00,832.95,0.00,0.00,0.212003853,0.00,
+GHA,Ghana,WHO Region of Africa,Africa,34121985.00,18.00,0.00,341.22,0.05,0.00,835.0856808,3.362534856,
+GRC,Greece,WHO European Region,Europe,10341277.00,0.00,0.00,103.41,0.00,0.00,0.212003853,0.00,
+,Greenland,WHO Region of the Americas,North America,56643.00,0.00,0.00,0.57,0.00,0.00,25245.45205,9.029594532,
+,Grenada,WHO Region of the Americas,North America,126183.00,628.00,1.00,1.26,497.69,0.79,25245.45205,9.029594532,
+,Grenadines,WHO Region of the Americas,North America,,0.00,0.00,0.00,0.00,0.00,25245.45205,9.029594532,
+,Guadeloupe,WHO Region of the Americas,North America,395839.00,11751.00,7.00,3.96,2968.63,1.77,25245.45205,9.029594532,
+,Guam,,Oceania,172952.00,0.00,0.00,1.73,0.00,0.00,5.234497416,0.00,
+GTM,Guatemala,WHO Region of the Americas,North America,18092026.00,72358.00,119.00,180.92,399.94,0.66,25245.45205,9.029594532,
+,Guernsey,WHO Region of the Americas,North America,,0.00,0.00,0.00,0.00,0.00,25245.45205,9.029594532,
+GIN,Guinea,WHO Region of Africa,Africa,14190612.00,1.00,0.00,141.91,0.01,0.00,835.0856808,3.362534856,
+,Guinea-Bissau,WHO Region of Africa,Africa,2150842.00,0.00,0.00,21.51,0.00,0.00,835.0856808,3.362534856,
+,Guyana,WHO Region of the Americas,South America,813834.00,27709.00,0.00,8.14,3404.75,0.00,9451.032642,3.918083636,
+HTI,Haiti,WHO Region of the Americas,North America,11724763.00,0.00,0.00,117.25,0.00,0.00,25245.45205,9.029594532,
+,Heard Island,,Oceania,,0.00,0.00,0.00,0.00,0.00,5.234497416,0.00,
+HND,Honduras,WHO Region of the Americas,North America,10593798.00,34050.00,49.00,105.94,321.41,0.46,25245.45205,9.029594532,
+HUN,Hungary,WHO European Region,Europe,10156239.00,0.00,0.00,101.56,0.00,0.00,0.212003853,0.00,
+,Iceland,WHO European Region,Europe,375318.00,0.00,0.00,3.75,0.00,0.00,0.212003853,0.00,
+IND,India,WHO South-East Asia Region,Asia,1428627663.00,94198.00,91.00,14286.28,6.59,0.01,3162.985645,3.186845559,
+IDN,Indonesia,WHO South-East Asia Region,Asia,277534122.00,70000.00,500.00,2775.34,25.22,0.18,3162.985645,3.186845559,
+IRN,Iran,WHO Eastern Mediterranean Region,Asia,89172767.00,0.00,0.00,891.73,0.00,0.00,3162.985645,3.186845559,
+IRQ,Iraq,WHO Eastern Mediterranean Region,Asia,45504560.00,0.00,0.00,455.05,0.00,0.00,3162.985645,3.186845559,
+IRL,Ireland,WHO European Region,Europe,5056935.00,0.00,0.00,50.57,0.00,0.00,0.212003853,0.00,
+,Isle of Man,,Europe,84710.00,0.00,0.00,0.85,0.00,0.00,0.212003853,0.00,
+ISR,Israel,WHO European Region,Asia,9174520.00,0.00,0.00,91.75,0.00,0.00,3162.985645,3.186845559,
+ITA,Italy,WHO European Region,Europe,58870762.00,82.00,0.00,588.71,0.14,0.00,0.212003853,0.00,
+CIV,Ivory Coast,WHO Region of Africa,Africa,28873034.00,3895.00,27.00,288.73,13.49,0.09,835.0856808,3.362534856,
+JAM,Jamaica,WHO Region of the Americas,North America,2825544.00,8180.00,6.00,28.26,289.50,0.21,25245.45205,9.029594532,
+JPN,Japan,WHO Western Pacific Region,Asia,123294513.00,0.00,0.00,1232.95,0.00,0.00,3162.985645,3.186845559,
+,Jersey,WHO Region of the Americas,North America,,0.00,0.00,0.00,0.00,0.00,25245.45205,9.029594532,
+JOR,Jordan,WHO Eastern Mediterranean Region,Asia,11337052.00,0.00,0.00,113.37,0.00,0.00,3162.985645,3.186845559,
+KAZ,Kazakhstan,WHO European Region,Asia,19606633.00,0.00,0.00,196.07,0.00,0.00,3162.985645,3.186845559,
+KEN,Kenya,WHO Region of Africa,Africa,55100586.00,0.00,0.00,551.01,0.00,0.00,835.0856808,3.362534856,
+,Kiribati,WHO Western Pacific Region,Oceania,133515.00,0.00,0.00,1.34,0.00,0.00,5.234497416,0.00,
+,Kosovo,,Europe,,0.00,0.00,0.00,0.00,0.00,0.212003853,0.00,
+KWT,Kuwait,WHO Eastern Mediterranean Region,Asia,4310108.00,0.00,0.00,43.10,0.00,0.00,3162.985645,3.186845559,
+KGZ,Kyrgyzstan,WHO European Region,Asia,6735347.00,0.00,0.00,67.35,0.00,0.00,3162.985645,3.186845559,
+,Laos,WHO Western Pacific Region,Asia,7633779.00,31997.00,20.00,76.34,419.15,0.26,3162.985645,3.186845559,
+LVA,Latvia,WHO European Region,Europe,1830211.00,0.00,0.00,18.30,0.00,0.00,0.212003853,0.00,
+LBN,Lebanon,WHO Eastern Mediterranean Region,Asia,5353930.00,0.00,0.00,53.54,0.00,0.00,3162.985645,3.186845559,
+,Lesotho,WHO Region of Africa,Africa,2330318.00,0.00,0.00,23.30,0.00,0.00,835.0856808,3.362534856,
+LBR,Liberia,WHO Region of Africa,Africa,5418377.00,0.00,0.00,54.18,0.00,0.00,835.0856808,3.362534856,
+LBY,Libya,WHO Eastern Mediterranean Region,Africa,6888388.00,0.00,0.00,68.88,0.00,0.00,835.0856808,3.362534856,
+,Liechtenstein,,Europe,39584.00,0.00,0.00,0.40,0.00,0.00,0.212003853,0.00,
+LTU,Lithuania,WHO European Region,Europe,2718352.00,0.00,0.00,27.18,0.00,0.00,0.212003853,0.00,
+,Luxembourg,WHO European Region,Europe,654768.00,0.00,0.00,6.55,0.00,0.00,0.212003853,0.00,
+,Madagascar,WHO Region of Africa,Africa,30325732.00,0.00,0.00,303.26,0.00,0.00,835.0856808,3.362534856,
+,Madeira Islands,,Africa,,0.00,0.00,0.00,0.00,0.00,835.0856808,3.362534856,
+MWI,Malawi,WHO Region of Africa,Africa,20931751.00,0.00,0.00,209.32,0.00,0.00,835.0856808,3.362534856,
+MYS,Malaysia,WHO Western Pacific Region,Asia,34308525.00,120418.00,96.00,343.09,350.99,0.28,3162.985645,3.186845559,
+,Maldives,WHO South-East Asia Region,Asia,521021.00,3223.00,0.00,5.21,618.59,0.00,3162.985645,3.186845559,
+MLI,Mali,WHO Region of Africa,Africa,23293698.00,4427.00,29.00,232.94,19.01,0.12,835.0856808,3.362534856,
+,Malta,WHO European Region,Africa,535064.00,0.00,0.00,5.35,0.00,0.00,835.0856808,3.362534856,
+,Marshall Islands,WHO Western Pacific Region,Oceania,41996.00,0.00,0.00,0.42,0.00,0.00,5.234497416,0.00,
+,Martinique,WHO Region of the Americas,North America,366981.00,13239.00,6.00,3.67,3607.54,1.63,25245.45205,9.029594532,
+MRT,Mauritania,WHO Region of Africa,Africa,4862989.00,0.00,0.00,48.63,0.00,0.00,835.0856808,3.362534856,
+MUS,Mauritius,WHO Region of Africa,Africa,1300557.00,265.00,0.00,13.01,20.38,0.00,835.0856808,3.362534856,
+,Mayotte,,Africa,335995.00,0.00,0.00,3.36,0.00,0.00,835.0856808,3.362534856,
+MEX,Mexico,WHO Region of the Americas,North America,128455567.00,277963.00,203.00,1284.56,216.39,0.16,25245.45205,9.029594532,
+,Micronesia,WHO Western Pacific Region,Oceania,544321.00,0.00,0.00,5.44,0.00,0.00,5.234497416,0.00,
+MDA,Moldova,WHO European Region,Europe,3435931.00,0.00,0.00,34.36,0.00,0.00,0.212003853,0.00,
+,Monaco,WHO European Region,Europe,36297.00,0.00,0.00,0.36,0.00,0.00,0.212003853,0.00,
+,Mongolia,WHO Western Pacific Region,Asia,3447157.00,0.00,0.00,34.47,0.00,0.00,3162.985645,3.186845559,
+,Montenegro,WHO European Region,Europe,626485.00,0.00,0.00,6.26,0.00,0.00,0.212003853,0.00,
+,Montserrat,WHO Region of the Americas,North America,4386.00,6.00,0.00,0.04,136.80,0.00,25245.45205,9.029594532,
+MAR,Morocco,WHO Eastern Mediterranean Region,Africa,37840044.00,0.00,0.00,378.40,0.00,0.00,835.0856808,3.362534856,
+,Mozambique,WHO Region of Africa,Africa,33897354.00,0.00,0.00,338.97,0.00,0.00,835.0856808,3.362534856,
+MMR,Myanmar,WHO South-East Asia Region,Asia,54577997.00,4968.00,23.00,545.78,9.10,0.04,3162.985645,3.186845559,
+,Namibia,WHO Region of Africa,Africa,2604172.00,0.00,0.00,26.04,0.00,0.00,835.0856808,3.362534856,
+,Nauru,WHO Western Pacific Region,Oceania,12780.00,0.00,0.00,0.13,0.00,0.00,5.234497416,0.00,
+,Nepal,WHO South-East Asia Region,Asia,30896590.00,51243.00,20.00,308.97,165.85,0.06,3162.985645,3.186845559,
+NLD,Netherlands,WHO European Region,Europe,17618299.00,0.00,0.00,176.18,0.00,0.00,0.212003853,0.00,
+,Nevis,WHO Region of the Americas,North America,,0.00,0.00,0.00,0.00,0.00,25245.45205,9.029594532,
+,New Caledonia,WHO Western Pacific Region,Oceania,292991.00,4.00,0.00,2.93,1.37,0.00,5.234497416,0.00,
+NZL,New Zealand,WHO Western Pacific Region,Oceania,5228100.00,0.00,0.00,52.28,0.00,0.00,5.234497416,0.00,
+NIC,Nicaragua,WHO Region of the Americas,North America,7046310.00,181096.00,4.00,70.46,2570.08,0.06,25245.45205,9.029594532,
+NER,Niger,WHO Region of Africa,Africa,27202843.00,148.00,0.00,272.03,0.54,0.00,835.0856808,3.362534856,
+NGA,Nigeria,WHO Region of Africa,Africa,223804632.00,72.00,0.00,2238.05,0.03,0.00,835.0856808,3.362534856,
+,Niue,WHO Western Pacific Region,Oceania,1935.00,0.00,0.00,0.02,0.00,0.00,5.234497416,0.00,
+,Norfolk Island,,Oceania,,0.00,0.00,0.00,0.00,0.00,5.234497416,0.00,
+,North Korea,WHO South-East Asia Region,Asia,26160821.00,0.00,0.00,261.61,0.00,0.00,3162.985645,3.186845559,
+,North Macedonia,WHO European Region,Europe,2085679.00,0.00,0.00,20.86,0.00,0.00,0.212003853,0.00,
+,Northern Mariana Islands,,Oceania,49796.00,0.00,0.00,0.50,0.00,0.00,5.234497416,0.00,
+NOR,Norway,WHO European Region,Europe,5474360.00,0.00,0.00,54.74,0.00,0.00,0.212003853,0.00,
+OMN,Oman,WHO Eastern Mediterranean Region,Asia,4644384.00,2016.00,0.00,46.44,43.41,0.00,3162.985645,3.186845559,
+PAK,Pakistan,WHO Eastern Mediterranean Region,Asia,240485658.00,24352.00,0.00,2404.86,10.13,0.00,3162.985645,3.186845559,
+,Palau,WHO Western Pacific Region,Oceania,18058.00,0.00,0.00,0.18,0.00,0.00,5.234497416,0.00,
+PSE,Palestine,WHO Eastern Mediterranean Region,Asia,5371230.00,0.00,0.00,53.71,0.00,0.00,3162.985645,3.186845559,
+PAN,Panama,WHO Region of the Americas,North America,4468087.00,20924.00,18.00,44.68,468.30,0.40,25245.45205,9.029594532,
+,Papua New Guinea,WHO Western Pacific Region,Oceania,10329931.00,0.00,0.00,103.30,0.00,0.00,5.234497416,0.00,
+PRY,Paraguay,WHO Region of the Americas,South America,6861524.00,63216.00,24.00,68.62,921.31,0.35,9451.032642,3.918083636,
+PER,Peru,WHO Region of the Americas,South America,34352719.00,274227.00,441.00,343.53,798.27,1.28,9451.032642,3.918083636,
+PHL,Philippines,WHO Western Pacific Region,Asia,117337368.00,195603.00,657.00,1173.37,166.70,0.56,3162.985645,3.186845559,
+,Pitcairn Islands,,Oceania,,0.00,0.00,0.00,0.00,0.00,5.234497416,0.00,
+POL,Poland,WHO European Region,Europe,41026067.00,0.00,0.00,410.26,0.00,0.00,0.212003853,0.00,
+PRT,Portugal,WHO European Region,Europe,10247605.00,0.00,0.00,102.48,0.00,0.00,0.212003853,0.00,
+,Puerto Rico,WHO Region of the Americas,North America,3260314.00,1242.00,0.00,32.60,38.09,0.00,25245.45205,9.029594532,
+QAT,Qatar,WHO Eastern Mediterranean Region,Asia,2716391.00,0.00,0.00,27.16,0.00,0.00,3162.985645,3.186845559,
+COG,Republic of Congo,WHO Region of Africa,Africa,6106869.00,0.00,0.00,61.07,0.00,0.00,835.0856808,3.362534856,
+,Reunion,,Africa,981796.00,0.00,0.00,9.82,0.00,0.00,835.0856808,3.362534856,
+ROU,Romania,WHO European Region,Europe,19892812.00,0.00,0.00,198.93,0.00,0.00,0.212003853,0.00,
+RUS,Russia,WHO European Region,Europe,144444359.00,0.00,0.00,1444.44,0.00,0.00,0.212003853,0.00,
+,Rwanda,WHO Region of Africa,Africa,14094683.00,0.00,0.00,140.95,0.00,0.00,835.0856808,3.362534856,
+,Saba,WHO Region of the Americas,North America,,0.00,0.00,0.00,0.00,0.00,25245.45205,9.029594532,
+,Saint Barthelemy,WHO Region of the Americas,North America,10994.00,737.00,0.00,0.11,6703.66,0.00,25245.45205,9.029594532,
+,Saint Helena,,Africa,5314.00,0.00,0.00,0.05,0.00,0.00,835.0856808,3.362534856,
+,Saint Kitts,WHO Region of the Americas,North America,47755.00,284.00,1.00,0.48,594.70,2.09,25245.45205,9.029594532,
+,Saint Lucia,WHO Region of the Americas,North America,180251.00,60.00,0.00,1.80,33.29,0.00,25245.45205,9.029594532,
+,Saint Martin,WHO Region of the Americas,North America,32077.00,1272.00,0.00,0.32,3965.46,0.00,25245.45205,9.029594532,
+,Saint Pierre and Miquelon,WHO Region of the Americas,North America,5840.00,0.00,0.00,0.06,0.00,0.00,25245.45205,9.029594532,
+,Saint Vincent,WHO Region of the Americas,North America,103698.00,15.00,0.00,1.04,14.47,0.00,25245.45205,9.029594532,
+,Samoa,WHO Western Pacific Region,Oceania,225681.00,0.00,0.00,2.26,0.00,0.00,5.234497416,0.00,
+,San Marino,WHO European Region,Europe,33642.00,0.00,0.00,0.34,0.00,0.00,0.212003853,0.00,
+,Sao Tome and Principe,WHO Region of Africa,Africa,231856.00,69.00,0.00,2.32,29.76,0.00,835.0856808,3.362534856,
+SAU,Saudi Arabia,WHO Eastern Mediterranean Region,Asia,36947025.00,2259.00,0.00,369.47,6.11,0.00,3162.985645,3.186845559,
+SEN,Senegal,WHO Region of Africa,Africa,17763163.00,248.00,1.00,177.63,1.40,0.01,835.0856808,3.362534856,
+SRB,Serbia,WHO European Region,Europe,7149077.00,0.00,0.00,71.49,0.00,0.00,0.212003853,0.00,
+,Seychelles,WHO Region of Africa,Africa,107660.00,0.00,0.00,1.08,0.00,0.00,835.0856808,3.362534856,
+,Siachen Glacier,,Asia,,0.00,0.00,0.00,0.00,0.00,3162.985645,3.186845559,
+SLE,Sierra Leone,WHO Region of Africa,Africa,8791092.00,0.00,0.00,87.91,0.00,0.00,835.0856808,3.362534856,
+SGP,Singapore,WHO Western Pacific Region,Asia,6014723.00,9663.00,0.00,60.15,160.66,0.00,3162.985645,3.186845559,
+,Sint Eustatius,WHO Region of the Americas,North America,,0.00,0.00,0.00,0.00,0.00,25245.45205,9.029594532,
+,Sint Maarten,WHO Region of the Americas,North America,44222.00,1.00,0.00,0.44,2.26,0.00,25245.45205,9.029594532,
+SVK,Slovakia,WHO European Region,Europe,5795199.00,0.00,0.00,57.95,0.00,0.00,0.212003853,0.00,
+SVN,Slovenia,WHO European Region,Europe,2119675.00,0.00,0.00,21.20,0.00,0.00,0.212003853,0.00,
+,Solomon Islands,WHO Western Pacific Region,Oceania,740424.00,0.00,0.00,7.40,0.00,0.00,5.234497416,0.00,
+SOM,Somalia,WHO Eastern Mediterranean Region,Africa,18143378.00,755.00,1.00,181.43,4.16,0.01,835.0856808,3.362534856,
+ZAF,South Africa,WHO Region of Africa,Africa,60414495.00,0.00,0.00,604.14,0.00,0.00,835.0856808,3.362534856,
+,South Georgia,,Antarctica,,0.00,0.00,0.00,0.00,0.00,0.00,0.00,
+KOR,South Korea,WHO Western Pacific Region,Asia,51784059.00,0.00,0.00,517.84,0.00,0.00,3162.985645,3.186845559,
+,South Sandwich Islands,,Antarctica,,0.00,0.00,0.00,0.00,0.00,0.00,0.00,
+SS,South Sudan,WHO Region of Africa,Africa,11088796.00,0.00,0.00,110.89,0.00,0.00,835.0856808,3.362534856,
+ESP,Spain,WHO European Region,Europe,47519628.00,3.00,0.00,475.20,0.01,0.00,0.212003853,0.00,
+LKA,Sri Lanka,WHO South-East Asia Region,Asia,21893579.00,89799.00,61.00,218.94,410.16,0.28,3162.985645,3.186845559,
+SDN,Sudan,WHO Eastern Mediterranean Region,Africa,48109006.00,10412.00,66.00,481.09,21.64,0.14,835.0856808,3.362534856,
+,Suriname,WHO Region of the Americas,South America,623236.00,279.00,3.00,6.23,44.77,0.48,9451.032642,3.918083636,
+,Swaziland,,Africa,,0.00,0.00,0.00,0.00,0.00,835.0856808,3.362534856,
+SWE,Sweden,WHO European Region,Europe,10612086.00,0.00,0.00,106.12,0.00,0.00,0.212003853,0.00,
+CHE,Switzerland,WHO European Region,Europe,8796669.00,0.00,0.00,87.97,0.00,0.00,0.212003853,0.00,
+SYR,Syria,WHO Eastern Mediterranean Region,Asia,23227014.00,0.00,0.00,232.27,0.00,0.00,3162.985645,3.186845559,
+TWN,Taiwan,WHO Western Pacific Region,Asia,23923276.00,0.00,0.00,239.23,0.00,0.00,3162.985645,3.186845559,
+,Tajikistan,WHO European Region,Asia,10143543.00,0.00,0.00,101.44,0.00,0.00,3162.985645,3.186845559,
+TZA,Tanzania,WHO Region of Africa,Africa,67438106.00,0.00,0.00,674.38,0.00,0.00,835.0856808,3.362534856,
+THA,Thailand,WHO South-East Asia Region,Asia,71801279.00,159219.00,179.00,718.01,221.75,0.25,3162.985645,3.186845559,
+,Timor-Leste,WHO South-East Asia Region,Asia,1360596.00,0.00,0.00,13.61,0.00,0.00,3162.985645,3.186845559,
+,Tobago,WHO Region of the Americas,South America,1534937.00,0.00,0.00,15.35,0.00,0.00,9451.032642,3.918083636,
+TGO,Togo,WHO Region of Africa,Africa,9053799.00,8.00,1.00,90.54,0.09,0.01,835.0856808,3.362534856,
+,Tonga,WHO Western Pacific Region,Oceania,107773.00,0.00,0.00,1.08,0.00,0.00,5.234497416,0.00,
+TTO,Trinidad,WHO Region of the Americas,North America,1534937.00,126.00,0.00,15.35,8.21,0.00,25245.45205,9.029594532,
+TUN,Tunisia,WHO Eastern Mediterranean Region,Africa,12458223.00,0.00,0.00,124.58,0.00,0.00,835.0856808,3.362534856,
+TUR,Turkey,WHO European Region,Asia,85816199.00,0.00,0.00,858.16,0.00,0.00,3162.985645,3.186845559,
+,Turkmenistan,WHO European Region,Asia,6516100.00,0.00,0.00,65.16,0.00,0.00,3162.985645,3.186845559,
+,Turks and Caicos Islands,WHO Region of the Americas,North America,46062.00,182.00,0.00,0.46,395.12,0.00,25245.45205,9.029594532,
+,Tuvalu,WHO Western Pacific Region,Oceania,11396.00,0.00,0.00,0.11,0.00,0.00,5.234497416,0.00,
+,Uganda,WHO Region of Africa,Africa,48582334.00,0.00,0.00,485.82,0.00,0.00,835.0856808,3.362534856,
+GBR,UK,WHO European Region,Europe,67736802.00,0.00,0.00,677.37,0.00,0.00,0.212003853,0.00,
+UKR,Ukraine,WHO European Region,Europe,36744634.00,0.00,0.00,367.45,0.00,0.00,0.212003853,0.00,
+ARE,United Arab Emirates,WHO Eastern Mediterranean Region,Asia,9516871.00,0.00,0.00,95.17,0.00,0.00,3162.985645,3.186845559,
+URY,Uruguay,WHO Region of the Americas,South America,3423108.00,48.00,0.00,34.23,1.40,0.00,9451.032642,3.918083636,
+USA,USA,WHO Region of the Americas,North America,339996563.00,156.00,0.00,3399.97,0.05,0.00,25245.45205,9.029594532,
+UZB,Uzbekistan,WHO European Region,Asia,35163944.00,0.00,0.00,351.64,0.00,0.00,3162.985645,3.186845559,
+,Vanuatu,WHO Western Pacific Region,Oceania,334506.00,0.00,0.00,3.35,0.00,0.00,5.234497416,0.00,
+VEN,Venezuela,WHO Region of the Americas,South America,28838499.00,4809.00,8.00,288.38,16.68,0.03,9451.032642,3.918083636,
+,Vietnam,WHO Western Pacific Region,Asia,98858950.00,166619.00,42.00,988.59,168.54,0.04,3162.985645,3.186845559,
+,Virgin Islands,WHO Region of the Americas,North America,98750.00,7.00,0.00,0.99,7.09,0.00,25245.45205,9.029594532,
+,Wallis and Futuna,,Oceania,11502.00,0.00,0.00,0.12,0.00,0.00,5.234497416,0.00,
+,Western Sahara,,Africa,587259.00,0.00,0.00,5.87,0.00,0.00,835.0856808,3.362534856,
+,Yemen,WHO Eastern Mediterranean Region,Asia,34449825.00,951.00,1.00,344.50,2.76,0.00,3162.985645,3.186845559,
+ZMB,Zambia,WHO Region of Africa,Africa,20569737.00,0.00,0.00,205.70,0.00,0.00,835.0856808,3.362534856,
+ZWE,Zimbabwe,WHO Region of Africa,Africa,16665409.00,0.00,0.00,166.65,0.00,0.00,835.0856808,3.362534856,
