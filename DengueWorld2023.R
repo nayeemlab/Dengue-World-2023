@@ -24,6 +24,22 @@ library(tseries)
 setwd("E:\\ResearchProject\\Najmul Bhai\\Dengue\\Dengue World 2023")
 
 worldDeng <- read.csv("DengWorld.csv")
+worldDeng$Continents
+worldDeng$CasePM
+one.way <- aov(CasePM ~ Continents, data = worldDeng)
+one.way
+
+summary(one.way)
+worldDeng$DeathPM
+one.way <- aov(DeathPM ~ Continents, data = worldDeng)
+one.way
+summary(one.way)
+
+worldDeng$cfr <- (worldDeng$Death/worldDeng$Case)*100
+one.way <- aov(cfr ~ Continents, data = worldDeng)
+one.way
+summary(one.way)
+
 worldDeng$Caselog <- log10(worldDeng$Case+1)
 worldDeng$Deathlog <- log10(worldDeng$Death+1)
 
